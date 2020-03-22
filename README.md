@@ -1,1 +1,1 @@
-# es6 Basic Sintaxes
+# es6 Basic Syntax
