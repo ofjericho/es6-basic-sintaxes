@@ -1,0 +1,16 @@
+{
+  "name": "es6-basic-sintaxes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ofjericho/es6-basic-sintaxes.git",
+  "author": "Fabio Maia",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.0"
+  },
+  "scripts": {
+    "dev": "babel ./main.js -o ./bundle.js"
+  }
+}
