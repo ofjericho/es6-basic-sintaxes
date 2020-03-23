@@ -1,7 +1,7 @@
 # ES6 Basic Syntax
 ## Ambiente
 
-Necessario instalação do:
+Necessário instalação do:
 - nodeJS
 - yarn
 - babel
